@@ -1,0 +1,11 @@
+a="muzamil"
+b="patel"
+c="vnc"
+d=80
+e=5.9
+f="muzzy"
+g="kudligi"
+h="ballari"
+i="hopete"
+j="muslim"
+print(f"my full name is {a} {b},i am studying in {c} {i},my weight is {d},my height is {e},my nick name is {f},my location is {g},my native place is {h} and i am {j}")
